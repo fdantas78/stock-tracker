@@ -9,7 +9,10 @@ gem 'devise'
 gem 'devise-bootstrap-views'
 
 #Bootstrap is a toolkit from Twitter designed to kickstart development of webapps and sites
-gem "twitter-bootstrap-rails"
+gem 'twitter-bootstrap-rails'
+
+#Retrieves stock quotes and historical pricing from yahoo
+gem 'stock_quote'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
